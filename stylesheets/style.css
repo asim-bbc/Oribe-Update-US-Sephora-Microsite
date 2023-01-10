@@ -12537,3 +12537,24 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 	}
 
 }
+
+.EN-FR {
+	height: 26px;
+	font-size: 24px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.08;
+	letter-spacing: normal;
+	text-align: center;
+	color: #000;
+  }
+  .EN-FR .text-style-1 {
+    font-weight: normal;
+}
+.language_switcher.language_switcher.margin-x-llg {
+    display: flex;
+    justify-content: end;
+    padding-top: 54px;
+    font-weight: 600;
+}

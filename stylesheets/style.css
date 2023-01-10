@@ -12558,3 +12558,9 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     padding-top: 54px;
     font-weight: 600;
 }
+@media (max-width: 600px) {
+	.language_switcher.language_switcher.margin-x-llg { 
+		padding-top: 24px; 
+		margin-right: 0;
+	}
+}
